@@ -1,42 +1,52 @@
  [
     {
       "id":1,
-      "templateImage": "https://images01.nicepagecdn.com/page/44/18/website-design-preview-4418586.webp"
+      "templateImage": "https://images01.nicepagecdn.com/page/44/18/website-design-preview-4418586.webp",
+     "link":"https://images01.nicepagecdn.com/page/44/18/website-design-preview-4418586.webp"
     },
     {
       "id":2,
-      "templateImage": "https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp"
+      "templateImage": "https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp",
+     "link":"https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp"
     },
     {
       "id":3,
-       "templateImage": "https://images01.nicepagecdn.com/page/49/16/website-design-preview-4916555.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/49/16/website-design-preview-4916555.webp",
+       "link":"https://images01.nicepagecdn.com/page/49/16/website-design-preview-4916555.webp"
     },
     {
       "id":4,
-       "templateImage": "https://images01.nicepagecdn.com/page/40/86/html-template-preview-4086464.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/40/86/html-template-preview-4086464.webp",
+      "link":"https://images01.nicepagecdn.com/page/40/86/html-template-preview-4086464.webp"
     },
     {
       "id":5,
-       "templateImage": "https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp",
+     "link":"https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp"
     },
     {
       "id":6,
-       "templateImage":"https://images01.nicepagecdn.com/page/83/73/html-template-preview-83730.webp"
+       "templateImage":"https://images01.nicepagecdn.com/page/83/73/html-template-preview-83730.webp",
+      "link":"https://images01.nicepagecdn.com/page/83/73/html-template-preview-83730.webp"
     },
      {
       "id":7,
-       "templateImage": "https://images01.nicepagecdn.com/page/11/29/html-template-preview-1129842.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/11/29/html-template-preview-1129842.webp",
+       "link":"https://images01.nicepagecdn.com/page/11/29/html-template-preview-1129842.webp"
     },
    {
       "id":8,
-       "templateImage": "https://images01.nicepagecdn.com/page/17/20/html-template-preview-17201.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/17/20/html-template-preview-17201.webp",
+     "link":"https://images01.nicepagecdn.com/page/17/20/html-template-preview-17201.webpp"
     },
    {
       "id":9,
-       "templateImage": "https://images01.nicepagecdn.com/page/12/16/website-design-preview-121618.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/12/16/website-design-preview-121618.webp",
+     "link":"https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp"
     },
    {
       "id":10,
-       "templateImage": "https://images01.nicepagecdn.com/page/13/02/html-template-preview-13021.webp"
+       "templateImage": "https://images01.nicepagecdn.com/page/13/02/html-template-preview-13021.webp",
+     "link":"https://images01.nicepagecdn.com/page/46/84/website-design-preview-4684598.webp"
     }
   ]
