@@ -1,7 +1,7 @@
 [
   {
     id:1,
-    templateImage: "https://images01.nicepagecdn.com/page/44/18/website-design-preview-4418586.webp";
+    templateImage: "https://images01.nicepagecdn.com/page/44/18/website-design-preview-4418586.webp"
   },
   {
     id:2,
@@ -13,7 +13,7 @@
   },
   {
     id:4,
-     templateImage: "https://images01.nicepagecdn.com/page/40/86/html-template-preview-4086464.webp"
+    templateImage: "https://images01.nicepagecdn.com/page/40/86/html-template-preview-4086464.webp"
   },
   {
     id:5,
@@ -21,7 +21,7 @@
   },
     {
     id:6,
-     templateImage:"https://images01.nicepagecdn.com/page/83/73/html-template-preview-83730.webp"
+     templateImage: "https://images01.nicepagecdn.com/page/83/73/html-template-preview-83730.webp"
   },
    {
     id:7,
